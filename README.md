@@ -24,7 +24,7 @@ mdbook build path/to/book/
 
 ## Usage
 
-Place the link for raw github file in any of the markdown files int the book after `!!!!include`:
+Place the link for raw github file in any of the markdown files in the book after `!!!!include`:
 
 ```
 !!!!include https://raw.githubusercontent.com/threefoldtech/mdbook-include/development/src/lib.rs
